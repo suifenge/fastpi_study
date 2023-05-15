@@ -1,0 +1,4 @@
+2023-05-15 10:47:22.493 | INFO     | routers.user:login:64 - login:abc不存在
+2023-05-15 11:41:30.336 | INFO     | routers.user:create_user:34 - 创建用户
+2023-05-15 11:42:37.713 | INFO     | routers.user:create_user:34 - 创建用户
+2023-05-15 11:42:37.989 | SUCCESS  | routers.user:create_user:52 - 创建用户成功
